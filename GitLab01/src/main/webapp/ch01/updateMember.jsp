@@ -73,7 +73,7 @@
          </c:if>
 </Form>
 <p/>
-<small>&lt;&lt;<a href="queryMember.do">回上一頁</a>&gt;&gt;</small>
+<small>&lt;&lt;<a href="<c:url value='queryMember.do'/>">回上一頁</a>&gt;&gt;</small>
 </div>
 </body>
 
